@@ -40,10 +40,7 @@ public class SecurityConfig {
         );
 
         configuration.setAllowedHeaders(
-                List.of(
-                        "Authorization",
-                        "Content-Type"
-                )
+                List.of("*")
         );
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();

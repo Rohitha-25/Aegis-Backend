@@ -143,7 +143,7 @@ public class SecurityConfig {
                                 //       PAM APIs
                                 // ---------------------
 
-                                // PAM - JIT + Least Privilege + Audit
+                                // PAM - JIT + LeastPrivilege + Audit
                                 .requestMatchers("/api/pam/**")
                                 .hasAuthority("SCOPE_agent:manage")
 

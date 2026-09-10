@@ -52,17 +52,17 @@ A.E.G.I.S. uses Auth0 RBAC permissions that are mapped to Spring Security author
 
   <tr>
     <td>agent:read</td>
-    <td>Read agent information</td>
+    <td>Read agent information.</td>
   </tr>
 
   <tr>
     <td>agent:execute</td>
-    <td>Execute approved agent tasks</td>
+    <td>Execute approved agent tasks.</td>
   </tr>
 
   <tr>
     <td>agent:manage</td>
-    <td>Administrative management of agents, tools, workloads and security controls</td>
+    <td>Administrative management of agents, tools, workloads and security controls.</td>
   </tr>
 </table>
 

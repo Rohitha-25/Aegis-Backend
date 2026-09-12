@@ -1,4 +1,4 @@
-## A.E.G.I.S — Backend
+## A.E.G.I.S — AI Enterprise Governance & Identity Security — Backend
 
 ### Overview
 A.E.G.I.S. (AI Enterprise Governance & Identity Security) is a security-focused multi-agent platform that demonstrates authentication, least-privilege authorization, tool governance, auditability, risk controls, PAM/JIT workflows and AI-assisted knowledge/security analysis.
